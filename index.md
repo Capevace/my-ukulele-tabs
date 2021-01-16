@@ -20,7 +20,7 @@
 
 [Can't Help Falling in Love – Elvis Presley](Can't\ Help\ Falling\ in\ Love\ -\ Elvis\ Presley.md)
 
-[Egal – Michael Wendler](Egal – Michael Wendler.md) *(this is a gag btw, fuck this idiot)*
+[Egal – Michael Wendler](Egal – Michael Wendler.md) *(this is for a gag btw, fuck this idiot)*
 
 [Fortunate Son – Creedence Clearwater](Fortunate Son – Creedence Clearwater.md)
 

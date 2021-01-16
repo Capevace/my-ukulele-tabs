@@ -1,4 +1,7 @@
 ## Egal – Michael Wendler
+
+*(this is for a gag btw, fuck this idiot)*
+
 ![G][] ![Em7][] ![Bm][] ![D][] ![C9][]
 
 ```
