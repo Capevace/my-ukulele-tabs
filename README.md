@@ -42,5 +42,5 @@
 
 
 
-[Others](My Chords.md)
+[Others](Others.md)
 
