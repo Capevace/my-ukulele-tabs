@@ -42,7 +42,7 @@ Only shooting stars break the mold
 
 ```
 
-## 
+
 [G]: https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/G.svg
 [D]: https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/D.svg
 [Am]: https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/Am.svg

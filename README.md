@@ -16,7 +16,7 @@
 
 [All I Want For Christmas Is You – Mariah Carey.md](All I Want For Christmas Is You – Mariah Carey.md)
 
-[All Star – Smash Mouth](All Star - Smash Mouth.md)
+[All Star – Smash Mouth](All Star – Smash Mouth.md)
 
 [Can't Help Falling in Love – Elvis Presley](Can't\ Help\ Falling\ in\ Love\ -\ Elvis\ Presley.md)
 
