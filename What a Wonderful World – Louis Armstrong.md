@@ -3,7 +3,7 @@
 ![C][] ![Em][] ![F][] ![E7][] ![Am][] ![G7][] ![A7][]
 
 ```
-C          Em  
+C           Em  
 I see trees of green,
 F           Em  
 red roses too,
