@@ -1,143 +1,52 @@
 ## Smooth Criminal – Michael Jackson
 
-![Am][] ![B][] ![C][] ![E][] ![Esus4][] ![F][] ![G][]
+![F][] ![G][] ![Esus4][] ![E][] ![Am][] ![]
 
 ```
-Pre-Chorus:
-F
-
-F
-                -jonasF-jonas
+[Pre-Chorus]
+F                (F)
 Annie are you ok? So Annie are you ok?
-        G
-
-G
-      F
-
-F
-
+        G      F
 are you ok Annie?
-F
-
-F
-                -jonasF-jonas
+F                (F)
 Annie are you ok? So Annie are you ok?
-        G
-
-G
-      F
-
-F
-
+        G      F
 are you ok Annie?
-F
-
-F
-                -jonasF-jonas
+F                (F)
 Annie are you ok? So Annie are you ok?
-        G
-
-G
-      F
-
-F
-
+        G      F
 are you ok Annie?
-F
-
-F
-                  -jonasF-jonas              Esus4
-
-Esus4
-
+F                  (F)              Esus4
 Annie are you ok!! So Annie are you ok!!!
-        E
-
-E
-      Am
-
-Am
-
+        E      Am
 are you ok Annie!!
 
-Chorus:
+
+[Chorus]
               G
-
-G
-
 Annie are you ok?
-         F
-
-F
-                   G
-
-G
-
+         F                   G
 Will you tell us that you're ok?
-
-
-Am
-
-Am
-                     G
-
-G
-              F
-
-F
-               E
-
-E
-
-There's a signe in the window that he struck you a crescendo Annie.
-Am
-
-Am
-                 G
-
-G
-                 F
-
-F
-                  G
-
-G
-
-He came into your apartment left the bloodstains on the carpet
-Am
-
-Am
-                   G
-
-G
-                 F
-
-F
-                   E
-
-E
-
-The you ran into the bedroom, you were struck down, it was your doom.
-F
-
-F
-                 -jonasF-jonas
+Am                     G      
+There's a signe in the window 
+        F               E
+that he struck you a crescendo Annie.
+Am                 G        
+He came into your apartment 
+         F                  G
+left the bloodstains on the carpet
+Am                   G        
+The you ran into the bedroom, 
+         F                   E
+you were struck down, it was your doom.
+F                 (F)
 Annie are you ok? So Annie are you ok?
-
-
-        G
-
-G
-      F
-
-F
-
+        G      F
 are you ok Annie?
-E
-
-E
-                                        
-You've been hit by, you've been struck by, a smooth criminal.
+E              STOP                        
+You've been hit by, you've been struck by, 
+                  Riff
+a smooth criminal.
 ```
 
 
