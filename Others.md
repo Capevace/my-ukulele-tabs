@@ -14,8 +14,6 @@
 
 ![D][] ![Bm][] ![Em][] ![A][]
 
-## [REF] Chord Image References
-
 
 
 
