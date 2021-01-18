@@ -27,9 +27,15 @@
 
 [I Just Called To Say I Love You – Stevie Wonder](I Just Called To Say I Love You – Stevie Wonder.md)
 
+[I Will Survive – Gloria Gaynor](I Will Survive – Gloria Gaynor.md)
+
 [Isn't She Lovely – Stevie Wonder](Isn't She Lovely – Stevie Wonder.md)
 
 [Just The Two Of Us – Grover Washington Jr](Just The Two Of Us – Grover Washington Jr.md)
+
+[Killing Me Softly With His Song – The Fugees](Killing Me Softly With His Song – The Fugees.md)
+
+[La Vie En Rose – Louis Armstrong](La Vie En Rose – Louis Armstrong.md)
 
 [Mii Theme Song](Mii Theme Song.md)
 
@@ -37,7 +43,11 @@
 
 [Smooth Criminal – Michael Jackson](Smooth Criminal – Michael Jackson.md)
 
+[Spongebob Squarepants - Ending Theme](Spongebob Squarepants - Ending Theme.md)
+
 [Stand By Me – Ben E. King](Stand By Me – Ben E. King.md)
+
+[Sweet Home Alabama – Lynyrd Skynyrd](Sweet Home Alabama – Lynyrd Skynyrd.md)
 
 [Take Me Home Country Roads – John Denver](Take Me Home Country Roads – John Denver.md)
 

@@ -6,10 +6,6 @@
 
 ![C#m7][] ![F#7][]
 
-## Sweet Home Alabama – Lynyrd Skynyrd
-
-![D][] ![Cadd9][] ![G][]
-
 ## Last Christmas – Wham!
 
 ![D][] ![Bm][] ![Em][] ![A][]
