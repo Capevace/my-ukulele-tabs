@@ -15,11 +15,15 @@
 
 [All Star – Smash Mouth](All Star – Smash Mouth.md)
 
+[Always Look On The Bright Side Of Life – Monty Python](Always Look On The Bright Side Of Life – Monty Python.md)
+
 [Can't Help Falling in Love – Elvis Presley](Can't Help Falling in Love – Elvis Presley.md)
 
 [Egal – Michael Wendler](Egal – Michael Wendler.md) *(this is for a gag btw, fuck this idiot)*
 
 [Fortunate Son – Creedence Clearwater](Fortunate Son – Creedence Clearwater.md)
+
+[Get Lucky – Daft Punk](Get Lucky – Daft Punk.md)
 
 [I Just Called To Say I Love You – Stevie Wonder](I Just Called To Say I Love You – Stevie Wonder.md)
 
@@ -30,6 +34,8 @@
 [Mii Theme Song](Mii Theme Song.md)
 
 [Minnie The Moocher – Cab Calloway](Minnie The Moocher – Cab Calloway.md)
+
+[Smooth Criminal – Michael Jackson](Smooth Criminal – Michael Jackson.md)
 
 [Stand By Me – Ben E. King](Stand By Me – Ben E. King.md)
 
