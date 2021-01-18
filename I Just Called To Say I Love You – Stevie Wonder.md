@@ -79,10 +79,6 @@ G         A     Bm
 I just called to say I love you
 G                A            D
 And I mean it from the bottom of my heart
-
-
-
-Source: www.ukulele-tabs.com
 ```
 
 
