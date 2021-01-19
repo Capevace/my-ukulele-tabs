@@ -37,6 +37,10 @@
 
 [La Vie En Rose – Louis Armstrong](La Vie En Rose – Louis Armstrong.md)
 
+[Last Christmas – Wham](Last Christmas – Wham.md)
+
+[Men in Black – Will Smith](Men in Black – Will Smith.md)
+
 [Mii Theme Song](Mii Theme Song.md)
 
 [Minnie The Moocher – Cab Calloway](Minnie The Moocher – Cab Calloway.md)
@@ -47,13 +51,19 @@
 
 [Stand By Me – Ben E. King](Stand By Me – Ben E. King.md)
 
+[Still Dre – Dr. Dre](Still Dre – Dr. Dre.md)
+
 [Sweet Home Alabama – Lynyrd Skynyrd](Sweet Home Alabama – Lynyrd Skynyrd.md)
 
 [Take Me Home Country Roads – John Denver](Take Me Home Country Roads – John Denver.md)
 
+[The Next Episode – Dr. Dre](The Next Episode – Dr. Dre.md)
+
 [What a Wonderful World – Louis Armstrong](What a Wonderful World – Louis Armstrong.md)
 
+## Links
 
+[Chord Playground (Ultimate Guitar)](https://tabs.ultimate-guitar.com/user/tab/view?h=Y6C06S9IZfAtkGx8qROspDK9)
 
-[Others](Others.md)
+[Chord Database](https://mateffy.me/ukulele-chords)
 
