@@ -21,6 +21,8 @@
 
 [Egal – Michael Wendler](Egal – Michael Wendler.md) *(this is for a gag btw, fuck this idiot)*
 
+[Fly Me To The Moon – Frank Sinatra](Fly Me To The Moon – Frank Sinatra.md)
+
 [Fortunate Son – Creedence Clearwater](Fortunate Son – Creedence Clearwater.md)
 
 [Get Lucky – Daft Punk](Get Lucky – Daft Punk.md)
