@@ -27,6 +27,8 @@
 
 [Get Lucky – Daft Punk](Get Lucky – Daft Punk.md)
 
+[How It Is – BibisBeautyPalace](How It Is – BibisBeautyPalace.md)
+
 [I Just Called To Say I Love You – Stevie Wonder](I Just Called To Say I Love You – Stevie Wonder.md)
 
 [I Will Survive – Gloria Gaynor](I Will Survive – Gloria Gaynor.md)
