@@ -65,6 +65,8 @@
 
 [What a Wonderful World – Louis Armstrong](What a Wonderful World – Louis Armstrong.md)
 
+[What's Up – 4 Non Blondes](What's Up – 4 Non Blondes.md)
+
 ## Links
 
 [Chord Playground (Ultimate Guitar)](https://tabs.ultimate-guitar.com/user/tab/view?h=Y6C06S9IZfAtkGx8qROspDK9)
