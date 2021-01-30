@@ -17,6 +17,8 @@
 
 [Always Look On The Bright Side Of Life – Monty Python](Always Look On The Bright Side Of Life – Monty Python.md)
 
+[Baker Street – Gerry Rafferty](Baker Street – Gerry Rafferty.md)
+
 [Can't Help Falling in Love – Elvis Presley](Can't Help Falling in Love – Elvis Presley.md)
 
 [Egal – Michael Wendler](Egal – Michael Wendler.md) *(this is for a gag btw, fuck this idiot)*
@@ -62,6 +64,8 @@
 [Take Me Home Country Roads – John Denver](Take Me Home Country Roads – John Denver.md)
 
 [The Next Episode – Dr. Dre](The Next Episode – Dr. Dre.md)
+
+[Timewarp – Damien Davey](Timewarp – Damien Davey.md)
 
 [What a Wonderful World – Louis Armstrong](What a Wonderful World – Louis Armstrong.md)
 
