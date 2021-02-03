@@ -29,6 +29,8 @@
 
 [Get Lucky – Daft Punk](Get Lucky – Daft Punk.md)
 
+[Hotel California – Eagles][Hotel California – Eagles.md]
+
 [How It Is – BibisBeautyPalace](How It Is – BibisBeautyPalace.md)
 
 [I Just Called To Say I Love You – Stevie Wonder](I Just Called To Say I Love You – Stevie Wonder.md)
@@ -52,6 +54,8 @@
 [Minnie The Moocher – Cab Calloway](Minnie The Moocher – Cab Calloway.md)
 
 [Smooth Criminal – Michael Jackson](Smooth Criminal – Michael Jackson.md)
+
+[Someone Like You – Adele][Someone Like You – Adele.md]
 
 [Spongebob Squarepants - Ending Theme](Spongebob Squarepants - Ending Theme.md)
 
