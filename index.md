@@ -29,7 +29,7 @@
 
 [Get Lucky – Daft Punk](Get Lucky – Daft Punk.md)
 
-[Hotel California – Eagles][Hotel California – Eagles.md]
+[Hotel California – Eagles](Hotel California – Eagles.md)
 
 [How It Is – BibisBeautyPalace](How It Is – BibisBeautyPalace.md)
 
