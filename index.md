@@ -55,7 +55,7 @@
 
 [Smooth Criminal – Michael Jackson](Smooth Criminal – Michael Jackson.md)
 
-[Someone Like You – Adele][Someone Like You – Adele.md]
+[Someone Like You – Adele](Someone Like You – Adele.md)
 
 [Spongebob Squarepants - Ending Theme](Spongebob Squarepants - Ending Theme.md)
 
