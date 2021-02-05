@@ -23,7 +23,7 @@
 
 [Crazy – Patsy Cline](Crazy – Patsy Cline.md)
 
-[Egal – Michael Wendler](Egal – Michael Wendler.md) *(this is for a gag btw, fuck this idiot)*
+[Egal – Michael Wendler](Egal – Michael Wendler.md) *(fuck him, btw)*
 
 [Fly Me To The Moon – Frank Sinatra](Fly Me To The Moon – Frank Sinatra.md)
 
