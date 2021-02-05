@@ -80,7 +80,7 @@
         // If we find a chord SVG, get the parent element and add sticky class
         if (imgs[i].src.includes('chords/main/svgs')) {
           if (!addedSticky) {
-            imgs[i].parentElement.classList.add('sticky chord-list');
+            imgs[i].parentElement.classList.add('sticky', 'chord-list');
             addedSticky = true;
           }
 
