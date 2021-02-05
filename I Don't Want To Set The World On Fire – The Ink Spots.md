@@ -33,7 +33,7 @@ Dm7             G7                     C   F   C
 I just want to start a flame in your heart
 ```
 
-![YT](https://www.youtube.com/watch?v=4-43lLKaqBQ)
+[Play Song](https://www.youtube.com/watch?v=4-43lLKaqBQ)
 
 [C]: https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/C.svg
 [Edim]: https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/Edim.svg
