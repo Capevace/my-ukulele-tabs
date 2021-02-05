@@ -46,14 +46,6 @@
     </main>
 
     <style type="text/css">
-      .sticky {
-        position: -webkit-sticky;
-        position: sticky;
-        top: 0;
-        background: white;
-        z-index: 100;
-      }
-
       .highlight {
         z-index: 1;
       }
@@ -67,9 +59,38 @@
         max-width: 90rem;
       }
 
+      .chord-list {
+        position: relative;
+      }
+
+      .sticky {
+        position: -webkit-sticky;
+        position: sticky;
+        top: 0;
+        background: white;
+        z-index: 100;
+      }
+
       .chord-list img.hover, .chord-list img:hover {
         background: #5976840f;
         border-radius: 10px;
+      }
+
+      .pin-button {
+        position: absolute;
+        right: 0;
+        background: transparent;
+        border: 0;
+        padding: 0;
+        margin: 0;
+        filter: grayscale(1);
+        opacity: 0.3;
+        transition: opacity 200ms ease;
+        font-size: 1rem;
+      }
+
+      .pin-button.pinned {
+        opacity: 0.8;
       }
     </style>
     <script type="text/javascript">
@@ -84,7 +105,31 @@
         // If we find a chord SVG, get the parent element and add sticky class
         if (imgs[i].src.includes('chords/main/svgs')) {
           if (!addedSticky) {
-            imgs[i].parentElement.classList.add('sticky', 'chord-list');
+            let isPinned = JSON.parse(localStorage.getItem('pinned') || true);
+            const parent = imgs[i].parentElement;
+            parent.classList.add('chord-list');
+
+            const button = document.createElement('button');
+            button.textContent = '📌';
+            button.classList.add('pin-button');
+
+            button.addEventListener('click', e => {
+              button.classList.toggle('pinned');
+              parent.classList.toggle('sticky');
+
+              isPinned = !isPinned;
+
+              localStorage.setItem('pinned', isPinned);
+            });
+
+            if (isPinned) {
+              parent.classList.add('sticky');
+              button.classList.add('pinned');
+            }
+
+            parent.prependElement(button);
+
+
             addedSticky = true;
           }
 
