@@ -43,6 +43,8 @@
 
 [I Will Survive – Gloria Gaynor](I Will Survive – Gloria Gaynor.md)
 
+[I've Had The Time Of My Life – Dirty Dancing](I've Had The Time Of My Life – Dirty Dancing.md)
+
 [Isn't She Lovely – Stevie Wonder](Isn't She Lovely – Stevie Wonder.md)
 
 [Just The Two Of Us – Grover Washington Jr](Just The Two Of Us – Grover Washington Jr.md)
