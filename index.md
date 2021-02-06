@@ -29,6 +29,8 @@
 
 [Fortunate Son – Creedence Clearwater](Fortunate Son – Creedence Clearwater.md)
 
+[Happy Birthday](Happy Birthday.md)
+
 [Get Lucky – Daft Punk](Get Lucky – Daft Punk.md)
 
 [Hotel California – Eagles](Hotel California – Eagles.md)
