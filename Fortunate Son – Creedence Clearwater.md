@@ -1,7 +1,6 @@
 ## Fortunate Son – Creedence Clearwater
 
-![G][] ![F][] ![C7][] ![D7][] ![Gdim][] ![C][]
-
+![G][] ![F][] ![C7][] ![D7][]
 ```
 G                    F
 Some folks are born made to wave the flag,
