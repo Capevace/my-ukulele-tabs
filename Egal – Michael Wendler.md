@@ -2,7 +2,7 @@
 
 *(this is for a gag btw, fuck this idiot)*
 
-![G][] ![Em7][] ![Bm][] ![D][] ![C9][]
+![G][] ![Em7][] ![Bm][] ![D][] ![C][]
 
 ```
 [Intro]
@@ -28,13 +28,13 @@ Sag nichts,  sag nichts
 Egal, du hattest mich nach dem „Hallo“
                          Em7
 Egal, wo du warst und wieso
-            Cadd9
+            C
 Ich weiß es ohnehin
     G                              D/F#
 Egal, du hattest mich nach dem „Hallo“
                          Em7
 Egal, wo du warst und wieso
-            Cadd9
+            C
 Ich weiß es ohnehin
 
 [Vers 2]
@@ -59,4 +59,4 @@ Sag nichts, sag nichts
 [Em7]: https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/Em7.svg
 [Bm]: https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/Bm.svg
 [D]: https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/D.svg
-[C9]: https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/C9.svg
+[C]: https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/C.svg
