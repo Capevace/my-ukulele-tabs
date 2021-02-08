@@ -24,13 +24,13 @@ Ist er denn besser als ich oder liebst du mich nicht?
 Sag nichts,  sag nichts
 
 [Refrain]
-    G                              D/F#
+    G                              D
 Egal, du hattest mich nach dem „Hallo“
                          Em7
 Egal, wo du warst und wieso
             C
 Ich weiß es ohnehin
-    G                              D/F#
+    G                              D
 Egal, du hattest mich nach dem „Hallo“
                          Em7
 Egal, wo du warst und wieso
