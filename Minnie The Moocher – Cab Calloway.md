@@ -1,6 +1,6 @@
 ## Minnie The Moocher – Cab Calloway
 
-![Em][] ![C7][] ![B7][] ![E][] ![D#dim][]
+![Em][] ![C7][] ![B7][] ![E][] ![F#dim][]
 
 ```
 [Intro]
@@ -85,7 +85,7 @@ Em      C7
 Poor    Min,    
 C7      B7
 Poor    Min,    
-Em7/G   Em   (Hold to end)
+F#dim   Em   (Hold to end)
 Poor    Min. 
 
 ```
@@ -94,4 +94,4 @@ Poor    Min.
 [C7]: https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/C7.svg
 [B7]: https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/B7.svg
 [E]: https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/E.svg
-[D#dim]: https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/D%23dim.svg
+[F#dim]: https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/D%23dim.svg
