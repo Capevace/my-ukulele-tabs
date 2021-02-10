@@ -6,8 +6,9 @@
     Made with the <a href="https://github.com/capevace/ukulele-chords"><code>ukulele-chords</code> utility tool</a>
 	</p>
 </div>
-
 ## Songs
+
+[Africa – Toto](Africa – Toto.md)
 
 [Ain't No Sunshine – Bill Withers](Ain't No Sunshine – Bill Withers.md)
 
@@ -23,9 +24,13 @@
 
 [Crazy – Patsy Cline](Crazy – Patsy Cline.md)
 
+[Deja Vu – Initial D](Deja Vu – Initial D.md)
+
 [Egal – Michael Wendler](Egal – Michael Wendler.md) *(fuck him, btw)*
 
 [Fly Me To The Moon – Frank Sinatra](Fly Me To The Moon – Frank Sinatra.md)
+
+[Formula 1 Theme](Formula 1 Theme.md)
 
 [Fortunate Son – Creedence Clearwater](Fortunate Son – Creedence Clearwater.md)
 
