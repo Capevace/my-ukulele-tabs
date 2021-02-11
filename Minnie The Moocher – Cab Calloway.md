@@ -94,4 +94,4 @@ Poor    Min.
 [C7]: https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/C7.svg
 [B7]: https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/B7.svg
 [E]: https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/E.svg
-[F#dim]: https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/D%23dim.svg
+[F#dim]: https://raw.githubusercontent.com/Capevace/ukulele-chords/main/svgs/F%23dim.svg

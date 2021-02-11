@@ -6,7 +6,7 @@
     Made with the <a href="https://github.com/capevace/ukulele-chords"><code>ukulele-chords</code> utility tool</a>
 	</p>
 </div>
-## Songs
+## Songs (37)
 
 [Africa – Toto](Africa – Toto.md)
 
