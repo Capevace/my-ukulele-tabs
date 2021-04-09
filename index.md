@@ -66,6 +66,8 @@
 
 [Minnie The Moocher – Cab Calloway](Minnie The Moocher – Cab Calloway.md)
 
+[Sister Sledge – Lost In Music](Sister Sledge – Lost In Music.md)
+
 [Smooth Criminal – Michael Jackson](Smooth Criminal – Michael Jackson.md)
 
 [Someone Like You – Adele](Someone Like You – Adele.md)
