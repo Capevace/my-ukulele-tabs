@@ -1,4 +1,4 @@
-## Sister Sledge – Lost In Music
+## Lost In Music – Sister Sledge
 
 ![Dm][] ![G][] ![Bb][] ![C][] ![Dm7][]
 

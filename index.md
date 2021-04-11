@@ -6,7 +6,7 @@
     Made with the <a href="https://github.com/capevace/ukulele-chords"><code>ukulele-chords</code> utility tool</a>
 	</p>
 </div>
-## Songs (37)
+## Songs (39)
 
 [Africa – Toto](Africa – Toto.md)
 
@@ -38,6 +38,8 @@
 
 [Get Lucky – Daft Punk](Get Lucky – Daft Punk.md)
 
+[Good Times – CHIC](Good Times – CHIC.md)
+
 [Hotel California – Eagles](Hotel California – Eagles.md)
 
 [How It Is – BibisBeautyPalace](How It Is – BibisBeautyPalace.md)
@@ -58,6 +60,8 @@
 
 [La Vie En Rose – Louis Armstrong](La Vie En Rose – Louis Armstrong.md)
 
+[Lost In Music – Sister Sledge](Lost In Music – Sister Sledge.md)
+
 [Last Christmas – Wham](Last Christmas – Wham.md)
 
 [Men in Black – Will Smith](Men in Black – Will Smith.md)
@@ -65,8 +69,6 @@
 [Mii Theme Song](Mii Theme Song.md)
 
 [Minnie The Moocher – Cab Calloway](Minnie The Moocher – Cab Calloway.md)
-
-[Sister Sledge – Lost In Music](Sister Sledge – Lost In Music.md)
 
 [Smooth Criminal – Michael Jackson](Smooth Criminal – Michael Jackson.md)
 
