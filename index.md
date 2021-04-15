@@ -70,6 +70,8 @@
 
 [Minnie The Moocher – Cab Calloway](Minnie The Moocher – Cab Calloway.md)
 
+[Rappers Delight – The Sugarhill Gang](Rappers Delight – The Sugarhill Gang.md)
+
 [Smooth Criminal – Michael Jackson](Smooth Criminal – Michael Jackson.md)
 
 [Someone Like You – Adele](Someone Like You – Adele.md)
