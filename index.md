@@ -6,7 +6,8 @@
     Made with the <a href="https://github.com/capevace/ukulele-chords"><code>ukulele-chords</code> utility tool</a>
 	</p>
 </div>
-## Songs (40)
+
+## Songs (41)
 
 [Africa – Toto](Africa – Toto.md)
 
@@ -39,6 +40,10 @@
 [Get Lucky – Daft Punk](Get Lucky – Daft Punk.md)
 
 [Good Times – CHIC](Good Times – CHIC.md)
+
+[Happy Birthday](Happy Birthday.md)
+
+[He's The Greatest Dancer – Sister Sledge](He's The Greatest Dancer – Sister Sledge.md)
 
 [Hotel California – Eagles](Hotel California – Eagles.md)
 
