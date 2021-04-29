@@ -7,7 +7,7 @@
 	</p>
 </div>
 
-## Songs (41)
+## Songs (42)
 
 [Africa – Toto](Africa – Toto.md)
 
@@ -34,8 +34,6 @@
 [Formula 1 Theme](Formula 1 Theme.md)
 
 [Fortunate Son – Creedence Clearwater](Fortunate Son – Creedence Clearwater.md)
-
-[Happy Birthday](Happy Birthday.md)
 
 [Get Lucky – Daft Punk](Get Lucky – Daft Punk.md)
 
@@ -74,6 +72,8 @@
 [Mii Theme Song](Mii Theme Song.md)
 
 [Minnie The Moocher – Cab Calloway](Minnie The Moocher – Cab Calloway.md)
+
+[Morning Flower – Samsung](Morning Flower – Samsung.md)
 
 [Rappers Delight – The Sugarhill Gang](Rappers Delight – The Sugarhill Gang.md)
 
